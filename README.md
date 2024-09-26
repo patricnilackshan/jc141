@@ -1,4 +1,4 @@
-## [jc141 - setup guide](https://github.com/patricnilackshan/jc141/blob/main/setup/README.md)
+## [jc141 - setup guide](https://github.com/patricnilackshan/jc141/tree/main/setup)
 
 
 Everything you need to do before playing jc141 releases.
@@ -32,5 +32,5 @@ Pay attention to the domain; there are many copycats.
 - If your ISP has blocked 1337x, then use [Tor](https://www.torproject.org/), a VPN, or a trusted public proxy. Read more: https://1337x-proxy.github.io/
 
 
-## [jc141 - scripting](https://github.com/patricnilackshan/jc141/blob/main/scripting)
+## [jc141 - scripting](https://github.com/patricnilackshan/jc141/tree/main/scripting)
 
